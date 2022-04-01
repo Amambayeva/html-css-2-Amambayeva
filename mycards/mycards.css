@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.h1{
+  margin:25px;
+  padding: 15px;
+  color: pink;
+  font-family: sans-serif;
+  text-decoration-style: solid;
+  line-height: 1.5;
+  font-size: 15px;
+
+
+}
+
+body{
+background-color: #FFB6C1;
+margin:25px;
+padding: 15px;
+}
+
+
+
+
+}
+ul.Menu {
+  margin:25px;
+  padding: 15px;
+  color: pink;
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-size: 15px;
+}
+
+a:hover, a:visited, a:link, a:active{
+    text-decoration: none;
+    color: black;
+}
+
+h2{
+  margin:25px;
+  padding: 15px;
+  color: black;
+  font-family: sans-serif;
+  line-height: 2;
+  font-size: 15px;
+}
+
+
+
+.container {
+  display: flex;
+  width: 70%;
+}
+
+.Jisoo{
+  margin: 10px;
+  padding: 15px;
+  width: 300px;
+  height: 900px;
+  border: 1px;
+  border-style: solid;
+  border-color: solid black;
+  line-height: 1.5;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+
+
+.BLACKPINK a:hover, a:visited, a:link, a:active
+{
+    text-decoration: underline;
+    color: black;
+}
+
+.Jennie{
+  margin: 10px;
+  padding: 15px;
+  width: 300px;
+  height: 900px;
+  border: 1px;
+  border-style: solid;
+  border-color: solid black;
+  line-height: 1.5;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+
+
+.Rose{
+  margin: 10px;
+  padding: 15px;
+  width: 300px;
+  height: 900px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  line-height: 1.5;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+
+.Lisa{
+  margin: 10px;
+  padding: 15px;
+  width: 300px;
+  height: 900px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  line-height: 1.5;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+
+.container img{
+  width: 300px;
+  height: 500px;
+}

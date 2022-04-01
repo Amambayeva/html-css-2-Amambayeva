@@ -1,0 +1,14 @@
+CSS resets are used to override the default stylesheets
+that modern browsers use. Because each browser uses a different
+stylesheet, certain elements (submit buttons, links, etc) don’t
+always have consistent styling across all browsers. A CSS reset
+ will wipe out some of the browser’s default styling by
+ replacing it with a set of completely customizable style rules
+ for all of the basic HTML elements so that each element will
+ appear the same, regardless of whether they’re viewed on
+ Chrome or Firefox. There are many different CSS resets out
+ there, each one with a different set of reset styles, but
+ typically a reset will clear most elements of any margins
+ and paddings, remove borders and list styles, and reverts
+ font-size and line-height to 100%. Here’s a comprehensive
+ list of some of the best resets available.

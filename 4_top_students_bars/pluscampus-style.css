@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  align-items: center;
+  display: flex;
+  text-decoration: none;
+}
+
+.container{
+  padding: 15px;
+  color: black;
+  font-family: sans-serif;
+  text-decoration-style: solid;
+  line-height: 1.5;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+
+.nav {
+  color: black;
+  font-weight: bold;
+  padding: 25px;
+  word-spacing: 1.5em;
+
+}
+
+
+/* Style the list */
+ul.breadcrumb {
+ padding: 10px 16px;
+ list-style: none;
+ background-color: #FFF;
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+ display: inline;
+ font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+ padding: 8px;
+ color: black;
+ content: "/\00a0";
+}
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+ color: #000000;
+ text-decoration: none;
+}
+
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+ color: #01447e;
+ text-decoration: underline;
+}
+
+
+.text{
+height: 25%;
+width: 50%;
+margin: 10px;
+font-family: sans-serif;
+}
+
+
+
+.cover{
+  display: flex;
+  width: 1200px;
+  width: 100%;
+
+}
+
+.box{
+  margin: 10px;
+  padding: 15px;
+  width: 200px;
+  height: 550px;
+  border: 1px;
+  border-style: solid;
+  border-color: solid black;
+  line-height: 1.5;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+
+.box h3{
+  margin-top: 30px;
+  margin-bottom: 15px;
+  pointer-events: none;
+  color:black;
+}
+
+.box p{
+  text-transform: uppercase;
+  color: gray;
+}
+.box a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: black;
+}
+
+.box-2{
+  margin: 10px;
+  padding: 15px;
+  width: 200px;
+  height: 550px;
+  border: 1px;
+  border-style: solid;
+  border-color: solid black;
+  line-height: 1.5;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+
+.box-2 h3{
+  margin-top: 30px;
+  margin-bottom: 15px;
+  pointer-events: none;
+}
+.box-2 p{
+  text-transform: uppercase;
+  color: gray;
+}
+
+.box-3{
+  margin: 10px;
+  padding: 15px;
+  width: 200px;
+  height: 550px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  line-height: 1.5;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+.box-3 h3{
+  margin-top: 30px;
+  margin-bottom: 15px;
+  pointer-events: none;
+}
+
+.box-3 p{
+  text-transform: uppercase;
+  color: gray;
+}
+
+.box-4{
+  margin: 10px;
+  padding: 15px;
+  width: 200px;
+  height: 550px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  line-height: 1.5;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+.box-4 h3{
+  margin-top: 30px;
+  margin-bottom: 15px;
+  pointer-events: none;
+}
+.box-4 p{
+  text-transform: uppercase;
+  color: gray;
+  font-family: sans-serif;Arial;
+  font-size: 15px;
+}
+
+img{
+  width: 200px;
+  height: 100px;
+}
